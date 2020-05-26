@@ -54,3 +54,28 @@ public class Deposito {
         } //Cierre del constructor
 
 ```
+# TABLAS 
+|  NOMBRE | APELLIDO | DNI |
+| -- | -- | -- |
+| Alejandro | Ji Cheung | 3458324879A |
+| Pepito | Fernández | 4213435553B |
+
+# CITAS
+Vamos a introducir una cita: 
+>Cada día sabemos más y entendemos menos (Albert Einstein)
+
+Párrafo siguiente 
+
+# LÍNEAS DIVISORAS
+
+Ejemplo de texto separado por línea divisoria. FORMA 1. 
+
+
+---
+
+Segunda forma de separar con líneas divisorias. 
+
+***
+
+Tercera forma de separar con líneas divisorias. 
+
